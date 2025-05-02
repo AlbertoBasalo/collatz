@@ -1,0 +1,55 @@
+{
+  "[javascript]": {
+    "editor.defaultFormatter": "biomejs.biome"
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features"
+  },
+  "editor.codeActionsOnSave": {
+    "quickfix.biome": "explicit",
+    "source.organizeImports.biome": "explicit"
+  },
+  "material-icon-theme.folders.associations": {
+    ".ai": "robot",
+    "architect": "godot",
+    "builder": "godot",
+    "craftsman": "godot",
+    "prompts": "robot",
+    "domain": "cobol",
+    "system": "stack"
+  },
+  "material-icon-theme.files.associations": {
+    "*.blueprint.md": "apiblueprint",
+    "*.instructions.md": "twine",
+    "*.tracker.md": "verified",
+    "*.plan.md": "architecture",
+    "*.prompt.md": "pascal",
+    "*.template.md": "textlint",
+    "*.adapter.ts": "adonis",
+    "*.command.ts": "console",
+    "*.decorator.ts": "d",
+    "*.factory.ts": "fortran",
+    "*.functions.ts": "url",
+    "*.repository.ts": "database",
+    "*.mapper.ts": "purescript",
+    "*.module.ts": "less",
+    "*.singleton.ts": "stitches",
+    "*.service.ts": "slint",
+    "*.type.ts": "raml",
+    "*.utils.ts": "tilt",
+    "*.validator.ts": "velite"
+  },
+  "github.copilot.enable": {
+    "*": true,
+    "plaintext": false,
+    "markdown": true,
+    "scminput": false,
+    "editor": true,
+    "inlineSuggest": true,
+    "inlineSuggest.enable": true,
+    "inlineSuggest.showSuggestionsAlways": true
+  },
+  "cSpell.words": [
+    "Collatz"
+  ]
+}
